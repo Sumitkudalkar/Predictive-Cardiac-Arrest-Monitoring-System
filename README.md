@@ -49,14 +49,3 @@ The system operates on a master-slave principle:
     * **MAX30102** or similar for Heart Rate and SpO2.
     * **DHT11/DHT22** for Temperature and Humidity.
     * Another accelerometer axis (optional).
-
-
-## 📈 Future Improvements
-
-As a hackathon prototype, there's always room for growth:
-
-* **Real-time Clock (RTC)**: Integrate a DS3231 or similar RTC module for accurate timekeeping even when powered off.
-* **Cloud Notifications**: Instead of just a local notification, use a service like Twilio (SMS), Pushover, or IFTTT to send real alerts to caregivers' phones over the internet.
-* **Data Logging**: Store sensor data over time to the cloud (e.g., ThingSpeak, Firebase) to visualize trends.
-* **Improved Fall Detection**: Re-implement a more robust fall detection algorithm that analyzes freefall, impact, and post-fall orientation.
-* **Battery Power**: Add a LiPo battery and a charging circuit with battery monitoring to make the device truly wearable.
