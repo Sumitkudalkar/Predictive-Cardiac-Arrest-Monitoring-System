@@ -5,7 +5,7 @@
 
 ## 📖 About The Project
 
-Well currently we have made it only for haelthy people.Using ML we can scale it to larger extent.
+Well currently we have made it only for healthy people.Using ML we can scale it to larger extent.
 
 The device provides at-a-glance information on a local touchscreen display and serves a web-based dashboard accessible to caregivers or family members on the same local network. The system is designed to detect two critical events: **sudden falls** (via an accelerometer) and **abnormal vital signs** (low heart rate or SpO2), triggering a multi-stage alert system to draw immediate attention.
 
